@@ -12,14 +12,14 @@ function Portfolio () {
               <div class="card mb-3" id="cardBody">
                   <div class="row g-0">
                     <div class="col-md-4">
-                      <a href="https://a-hardback-life.herokuapp.com/">
-                          <img src="images/Hardback-Life.JPG" class="img-fluid rounded-start" alt="Hardback Life"/>
+                      <a href="https://agile-meadow-18370.herokuapp.com/">
+                          <img src={require("./images/PWA_text_editor.JPG")} class="img-fluid rounded-start" alt="PWA Text Editor"/>
                       </a>
                     </div>
                     <div class="col-md-8">
                       <div class="card-body">
-                        <h5 class="card-title">It's A Hardback Life</h5>
-                        <p class="card-text">It's A Hardback Life Book Club is a book club application that has client and admin logins, the ability to search and save books, and save book reviews. It utilizes the OpenLibrary API and allows users to chat about their favorite books in real time.</p>
+                        <h5 class="card-title">Progressive Web Application Text Editor</h5>
+                        <p class="card-text">A single page text editor featuring a number of data persistence techniques as redundencies that is able to function seemlessly offline. This application was completed using starter code provided by Georgia Techs Coding Boot Camp.</p>
                       </div>
                     </div>
                   </div>
@@ -30,7 +30,7 @@ function Portfolio () {
                   <div class="row g-0">
                     <div class="col-md-4">
                       <a href="https://kashane1.github.io/alpha-1-prime/">
-                      <img src="images/Coding BFF IMG.JPG" class="img-fluid rounded-start" alt="Coding BFF"/>
+                      <img src={require("./images/Coding BFF IMG.JPG")} class="img-fluid rounded-start" alt="Coding BFF"/>
                       </a>
                     </div>
                     <div class="col-md-8">
@@ -46,7 +46,7 @@ function Portfolio () {
                   <div class="row g-0">
                     <div class="col-md-4">
                       <a href="https://github.com/ChanceSupcoe/E-Commerce_Back_End">
-                      <img src="images/E-Commerce-Pic.JPG" class="img-fluid rounded-start" alt="E-Commerce"/>
+                      <img src={require("./images/E-Commerce-Pic.JPG")} class="img-fluid rounded-start" alt="E-Commerce"/>
                       </a>
                       </div>
                     <div class="col-md-8">
@@ -62,7 +62,7 @@ function Portfolio () {
                   <div class="row g-0">
                     <div class="col-md-4">
                       <a href="https://github.com/ChanceSupcoe/README-Generator">
-                      <img src="images/README-Snip.JPG" class="img-fluid rounded-start" alt="README-Generator"/>
+                      <img src={require("./images/README-Snip.JPG")} class="img-fluid rounded-start" alt="README-Generator"/>
                       </a>
                     </div>
                     <div class="col-md-8">
@@ -79,7 +79,7 @@ function Portfolio () {
                   <div class="row g-0">
                     <div class="col-md-4">
                       <a href="https://chancesupcoe.github.io/Password_Generator/">
-                      <img src="images/Password Generator IMG.JPG" class="img-fluid rounded-start" alt="Password Generator"/>
+                      <img src={require("./images/Password Generator IMG.JPG")} class="img-fluid rounded-start" alt="Password Generator"/>
                       </a>
                     </div>
                     <div class="col-md-8">

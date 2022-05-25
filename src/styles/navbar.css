@@ -36,4 +36,5 @@
 	background-color: var(--cardcolor);
 	text-decoration: none;
 	text-align: left;
+	padding: 0.5rem;
 }
