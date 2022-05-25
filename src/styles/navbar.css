@@ -1,0 +1,39 @@
+:root {
+  --backgroundcolor: #15202B;
+  --cardcolor: #192734;
+  --hovercolor:#22303c;
+  --primarytext:#ffffff;
+  --secondarytext:#8899a6;
+}
+
+
+.navbar {
+	display:flex;
+	background-color: var(--cardcolor);
+}
+
+#title {
+	color: var(--secondarytext);
+	text-decoration: none;
+	text-align: center;
+	padding-left: 10px;
+}
+
+.navbar a {
+	color: var(--secondarytext);
+	background-color: var(--cardcolor);
+	text-decoration: none;
+	text-align: center;
+}
+
+.navbar a:hover {
+	background-color: var(--hovercolor);
+	color: var(--primarytext);
+}
+
+.navbar ul {
+	color: var(--secondarytext);
+	background-color: var(--cardcolor);
+	text-decoration: none;
+	text-align: left;
+}

@@ -1,0 +1,17 @@
+:root {
+    --backgroundcolor: #15202B;
+    --cardcolor: #192734;
+    --hovercolor:#22303c;
+    --primarytext:#ffffff;
+    --secondarytext:#8899a6;
+}
+
+#header {
+	padding-top: 30px;
+	text-align: center;
+	background: var(--backgroundcolor);
+	color: var(--primarytext);
+	height: 100vh;
+}
+
+

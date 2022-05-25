@@ -1,0 +1,30 @@
+:root {
+    --backgroundcolor: #15202B;
+    --cardcolor: #192734;
+    --hovercolor:#22303c;
+    --primarytext:#ffffff;
+    --secondarytext:#8899a6;
+}
+
+
+.header2 {
+	padding: 60px 60px 0px 60px;
+	text-align: center;
+	background: var(--backgroundcolor);
+	color: var(--primarytext);
+}
+
+.header2 form {
+	background-color: var(--backgroundcolor);
+	color: var(--primarytext);
+}
+
+.header2 form input{
+	background-color: var(--secondarytext);
+	color: var(--backgroundcolor);
+}
+
+.header2 form textarea {
+	background-color: var(--secondarytext);
+	color: var(--backgroundcolor);
+}
