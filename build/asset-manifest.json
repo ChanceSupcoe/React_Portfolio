@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.d745418b.css",
+    "main.js": "/React_Portfolio/static/js/main.79e9209e.js",
+    "static/media/Resume.JPG": "/React_Portfolio/static/media/Resume.6cf92498a6fbec3297e0.JPG",
+    "static/media/Coding BFF IMG.JPG": "/React_Portfolio/static/media/Coding BFF IMG.d9aac598b09bd83fc4b2.JPG",
+    "static/media/Password Generator IMG.JPG": "/React_Portfolio/static/media/Password Generator IMG.f9d6d88d7f26e7cd058b.JPG",
+    "static/media/E-Commerce-Pic.JPG": "/React_Portfolio/static/media/E-Commerce-Pic.21026baa8e7a5a21553d.JPG",
+    "static/media/PWA_text_editor.JPG": "/React_Portfolio/static/media/PWA_text_editor.b743da9bb2b37fba9c0e.JPG",
+    "static/media/IMG_1446.jpg": "/React_Portfolio/static/media/IMG_1446.5ee8186be93aa22ef824.jpg",
+    "static/media/README-Snip.JPG": "/React_Portfolio/static/media/README-Snip.821528c3ae4e05cb80da.JPG",
+    "index.html": "/React_Portfolio/index.html",
+    "main.d745418b.css.map": "/React_Portfolio/static/css/main.d745418b.css.map",
+    "main.79e9209e.js.map": "/React_Portfolio/static/js/main.79e9209e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d745418b.css",
+    "static/js/main.79e9209e.js"
+  ]
+}
