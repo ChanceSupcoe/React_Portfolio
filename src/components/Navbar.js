@@ -14,6 +14,7 @@ function Navbar() {
                     <li><a class="nav-item" href="#header">Home</a></li>
                     <li><a class="nav-item" href="#portfolio">Portfolio</a></li>
                     <li><a class="nav-item" href="#about-me">About Me</a></li>
+                    <li><a class="nav-item" href="#resume">Resume</a></li>
                     <li><a class="nav-item" href="#contact">Contact Me</a></li>
                   </ul>
               </div>

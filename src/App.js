@@ -1,10 +1,12 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import Header from './components/Header';
-import Card from './components/Card';
+import Card from './components/Resume';
 import AboutMe from './components/AboutMe';
 import Portfolio from './components/Portfolio';
 import ContactMe from './components/ContactMe';
+import Resume from './components/Resume';
+import Footer from './components/Footer';
 
 const styles = {
   body : {
@@ -28,10 +30,11 @@ function App() {
     <body style = {styles.body}>
       <Navbar />
       <Header />
-      <AboutMe />
       <Portfolio />
+      <AboutMe />
+      <Resume />
       <ContactMe />
-      <Card />
+      <Footer />
     </body>
   </html>
 
